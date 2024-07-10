@@ -6,7 +6,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.view.View;
-import android.widget.Button;//test
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
     private Button btn_multiplayer;
